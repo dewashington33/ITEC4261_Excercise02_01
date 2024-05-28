@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class AreaOfCircle {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the radius of the circle: ");
